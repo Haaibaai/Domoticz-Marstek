@@ -41,9 +41,11 @@ Find Marstek in the list of Hardware and fill in the details
     
 🙏 Acknowledgements
 
-This integration would not have been possible without the foundational work and protocol analysis by R. Weijnen (https://github.com/rweijnen) and D-shmt (https://github.com/d-shmt/hass_marstek-smart-meter)
+This integration would not have been possible without the foundational work and protocol analysis by 
+- R. Weijnen (https://github.com/rweijnen)
+- D-shmt (https://github.com/d-shmt/hass_marstek-smart-meter)
 
-    Original Research: rweijnen/marstek-venus-e-firmware-notes
+Original Research: rweijnen/marstek-venus-e-firmware-notes
 
 💬 Feedback & Contributions
 If you encounter any issues or have suggestions for improvements, please open an issue on this GitHub repository. Contributions are always welcome!
